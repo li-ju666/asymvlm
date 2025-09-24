@@ -32,8 +32,8 @@ pip install -r requirements.txt
 
 ### 1. Cache Embeddings
 
-First, cache the CLIP embeddings for the dataset:
-
+First, cache the CLIP embeddings for the dataset. Before running the code, you need to specify the path to the data and corresponding annotation files
+in [`cache_embeddings.py`](cache_embeddings.py), line 11-19. Then run
 ```sh
 python cache_embeddings.py --dataset coco
 ```
