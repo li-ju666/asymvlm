@@ -1,0 +1,12 @@
+pycocotools
+ftfy
+regex
+ujson
+pandas
+pyyaml
+matplotlib
+scikit-learn
+webp
+torch
+torchvision
+git+https://github.com/openai/CLIP.git
