@@ -1,6 +1,6 @@
 # AsymVLM: Official PyTorch Implementation
 
-This repository contains the implementation of our paper, "[Exploiting the Asymmetric Uncertainty Structure of Pre-trained VLMs on the Unit Hypersphere](https://neurips.cc/virtual/2025/poster/116582)," accepted at NeurIPS 2025.
+This repository contains the implementation of our paper, "[Exploiting the Asymmetric Uncertainty Structure of Pre-trained VLMs on the Unit Hypersphere](https://arxiv.org/abs/2505.11029)," accepted at [NeurIPS 2025](https://neurips.cc/virtual/2025/poster/116582).
 
 ## Overview
 AsymVLM is a post-hoc adaptation method for pre-trained vision-language models (VLMs) that models the uncertainty of text embeddings on the unit hypersphere. This implementation supports two distributional families for this purpose:
